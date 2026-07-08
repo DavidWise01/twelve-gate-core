@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1115
+slug  : twelve-gate-core
+seal  : f1156558f9fbd7f126732f023a61cfda396723da8d62282a3064871d50ea25ce
+prev  : 5204d700886a59c849d503a1de200b6a03992bb2ddd927d7bcc9971e3c68cae9
+link  : 3ff5d9e7736fe1bdade896a3e3a4ca1207a12ddb4535d411709e8f486b9b2d66
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
